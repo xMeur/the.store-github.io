@@ -1,0 +1,241 @@
+{
+    "data": {
+        "code": 200,
+        "success": true
+    },
+    "personal": {
+        "name": "Test",
+        "id_xat": "1202",
+        "status": "Web Designer",
+        "avatar": "https://i.postimg.cc/XYSM3wZ4/xat.jpg",
+        "about": "Quem reflete sobre si mesmo, investigando os porquês de pensamentos, falas, jeitos, escolhas, descontentamentos, hábitos, objetivos, continuidades… corre o perigo de despertar.",
+        "location": "Brasil - Minas Gerais",
+        "country": null,
+        "country_flag": null,
+        "date": {
+            "year": 43,
+            "birthday": "06/Apr",
+            "birthdate": "1981/04/06"
+        },
+        "homepage": "https://xatme.com",
+        "xat_room": "https://xat.com/centraldosplayers",
+        "forum": "https://forum.xat.com/profile/45505/"
+    },
+    "relation": {
+        "name": "Cherry",
+        "id_xat": "2021",
+        "avatar": "https://i.postimg.cc/Nj3R814N/img-about-2.jpg",
+        "me": "https://xat.me/cherry",
+        "about": "Com palavras é difícil explicar a importância que você tem em minha vida.",
+        "homepage": null,
+        "relation_type": "Married",
+        "love_count": {
+            "time_lapse": "6 Year, 4 Month and 6 Days",
+            "day_amount": 2318
+        }
+    },
+    "images": [
+        {
+            "url": "https://i.postimg.cc/Rhfxcr48/banner.jpg",
+            "title": "",
+            "description": null
+        },
+        {
+            "url": "https://i.postimg.cc/wMdhdkm3/inner-hola-50.jpg",
+            "title": "",
+            "description": null
+        },
+        {
+            "url": "https://i.postimg.cc/33mS2Sw-W/rocks.jpg",
+            "title": "",
+            "description": null
+        },
+        {
+            "url": "https://i.postimg.cc/X4T1GS4T/maninmountain.jpg",
+            "title": "",
+            "description": null
+        },
+        {
+            "url": "https://i.postimg.cc/wgtbjT8X/greenland.jpg",
+            "title": "",
+            "description": null
+        }
+    ],
+    "banners": {
+        "code": 204,
+        "message": "Oops, the banners section is empty"
+    },
+    "videos": [
+        {
+            "id_video": "UEdyU-QVloU",
+            "title": "Guilherme & Santiago - Eu não te amei à toa"
+        },
+        {
+            "id_video": "_Yhyp-_hX2s",
+            "title": "Eminem - Lose Yourself"
+        }
+    ],
+    "posts": [
+        {
+            "title": "Viva La Vida Al Máximo 2",
+            "uri": "viva-la-vida-al-maximo-2",
+            "cover": "https://i.postimg.cc/pr8q2Mmr/princ-img.jpg",
+            "content": "En este ajetreado mundo, a veces olvidamos disfrutar y aprender de las experiencias. Pero aquí va un consejo simple y genial: No te compliques, diviértete; no te quejes, aprende; no te enojes, sonríe.¡vive siguiendo este lema y descubre la emoción de la vida! Al simplificar, aprender y sonreír, te librarás de lo negativo y encontrarás alegría en cada día. Así que, en lugar de complicarte, quejarte o enojarte, elige la diversión, el aprendizaje y la sonrisa, y vive cada momento al máximo. ¡La vida es una aventura!",
+            "post_at": "2023-12-17 14:04:43"
+        },
+        {
+            "title": "La Diversid De Pensamento",
+            "uri": "la-diversid-de-pensamento",
+            "cover": "https://i.postimg.cc/RhJY49M6/bg-2.jpg",
+            "content": "Las mentes humanas son semejantes a jardines que florecen cuando se les permite recibir una variedad de semillas. La apertura a nuevas ideas es la llave que desbloquea el potencial de aprendizaje, comprensión y crecimiento. Al mantener nuestras mentes abiertas a nuevas perspectivas, construimos un mundo más enriquecedor y lleno de posibilidades, donde el progreso y la innovación son impulsados por la diversidad de pensamiento.",
+            "post_at": "2023-11-11 16:28:46"
+        },
+        {
+            "title": "Viva La Vida Al Máximo",
+            "uri": "viva-la-vida-al-maximo",
+            "cover": "https://i.postimg.cc/pr8q2Mmr/princ-img.jpg",
+            "content": "En este ajetreado mundo, a veces olvidamos disfrutar y aprender de las experiencias. Pero aquí va un consejo simple y genial: No te compliques, diviértete; no te quejes, aprende; no te enojes, sonríe.¡vive siguiendo este lema y descubre la emoción de la vida! Al simplificar, aprender y sonreír, te librarás de lo negativo y encontrarás alegría en cada día. Así que, en lugar de complicarte, quejarte o enojarte, elige la diversión, el aprendizaje y la sonrisa, y vive cada momento al máximo. ¡La vida es una aventura!",
+            "post_at": "2023-11-11 15:35:19"
+        }
+    ],
+    "friends": [
+        {
+            "name": "Elzo",
+            "me": "https://xat.me/elzobsantos",
+            "avatar": "https://i.imgur.com/qv29Dze.png",
+            "id_xat": "",
+            "description": "xatspace maker"
+        },
+        {
+            "name": "Lanusse",
+            "me": "https://xat.me/jas0n",
+            "avatar": "https://i.postimg.cc/PqfRsYh8/avatar-04.jpg",
+            "id_xat": "",
+            "description": "Friends 4"
+        },
+        {
+            "name": "Cherry",
+            "me": "https://xat.me/jas0n",
+            "avatar": "https://i.postimg.cc/K8DHHJX2/avatar-03.jpg",
+            "id_xat": "",
+            "description": "Friends 3"
+        },
+        {
+            "name": "Fred",
+            "me": "https://xat.me/jas0n",
+            "avatar": "https://i.postimg.cc/wTJPh903/avatar-02.jpg",
+            "id_xat": "",
+            "description": "Friends 2"
+        },
+        {
+            "name": "Daniela",
+            "me": "https://xat.me/jas0n",
+            "avatar": "https://i.postimg.cc/GmCfK65K/avatar-01.jpg",
+            "id_xat": "",
+            "description": "Friends 1"
+        }
+    ],
+    "social": {
+        "facebook": "",
+        "twitter": "https://www.twitter.com/xatgif",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": "",
+        "discord": "",
+        "tumblr": "",
+        "twitch": null
+    },
+    "reseller": {
+        "product": {
+            "ids": [
+                {
+                    "id_number": "1M",
+                    "id_digits": "M",
+                    "price": "Undefined",
+                    "status": "Available"
+                },
+                {
+                    "id_number": "1000027",
+                    "id_digits": "7",
+                    "price": "Unknown",
+                    "status": "Sold"
+                },
+                {
+                    "id_number": "2022",
+                    "id_digits": "4",
+                    "price": "Unknown",
+                    "status": "Sold"
+                },
+                {
+                    "id_number": "1202",
+                    "id_digits": "4",
+                    "price": "Unknown",
+                    "status": "Sold"
+                }
+            ],
+            "powers": [
+                {
+                    "name": "Ruby",
+                    "image": "https://i.postimg.cc/d1CC2X2F/a-ruby-30.png",
+                    "price": "1.000,00",
+                    "category": "Epic"
+                },
+                {
+                    "name": "Purple",
+                    "image": "https://i.postimg.cc/jdwpz49X/a-purple-30.png",
+                    "price": "250,00",
+                    "category": "Epic"
+                },
+                {
+                    "name": "Namewave",
+                    "image": "https://i.postimg.cc/kMzX0mVF/a-namewave-30.png",
+                    "price": "250,00",
+                    "category": "Epic"
+                },
+                {
+                    "name": "Allpowers",
+                    "image": "https://i.postimg.cc/V67bBPhJ/a-allpowers-30.png",
+                    "price": "300,00",
+                    "category": "Collection"
+                }
+            ],
+            "plans": [
+                {
+                    "title": "Exemple_5",
+                    "xats": "50.000",
+                    "days": "Not Days",
+                    "only_xats": "50.000",
+                    "price": "600,00"
+                },
+                {
+                    "title": "Exemple_4",
+                    "xats": "20.000",
+                    "days": "360",
+                    "only_xats": "24.680",
+                    "price": "300,00"
+                },
+                {
+                    "title": "Exemple_3",
+                    "xats": "10.000",
+                    "days": "Not Days",
+                    "only_xats": "10.000",
+                    "price": "120,00"
+                },
+                {
+                    "title": "Exemple_2",
+                    "xats": "5.000",
+                    "days": "100",
+                    "only_xats": "6.300",
+                    "price": "65,00"
+                },
+                {
+                    "title": "Exemple_1",
+                    "xats": "1.000",
+                    "days": "50",
+                    "only_xats": "1.650",
+                    "price": "20,00"
+                }
+            ]
+        }
+    }
+}
